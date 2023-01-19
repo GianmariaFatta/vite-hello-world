@@ -14,5 +14,9 @@ export default {
 </template> 
 
 <style scoped>
-
+h1 {
+    color: darkred;
+    font-size: 80px;
+    margin: 20px
+}
 </style>

@@ -34,7 +34,7 @@ export default {
 }
 
 .container {
-  margin: 0 auto;
+  margin: 50px auto;
   max-width: 1000px;
   height: 500px;
   text-align: center;

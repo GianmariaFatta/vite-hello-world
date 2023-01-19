@@ -17,7 +17,7 @@ export default {
 
 <style dscoped >
 img {
-    max-width: 800px;
+    max-width: 600px;
 
 }
 </style>
